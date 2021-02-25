@@ -9,4 +9,6 @@ I have decided to start recording what I'm learning, partly to help me learn/unl
 ## 2021-02-23
 Context Matters (yet again).  Our team is good at criticizing each others ideas and iron sharpens iron.  And it also works with at least one outside team.  But when we met a team we only had a few interactions with to give them feedback, we should NOT have commented so heavily on their document as the result was no discussion at all.   Instead we should have made a copy of the document and then asked our questions during the meeting.  Then we could have gotten instant feedback on what they might be ready to hear and had more of a conversation.
 
-
+## 2021-02-24
+Ask teams how they would like to work together? How would they like to get feedback.
+Learned about Apollo Client 3 and trying to setup a React/Apollo to Hasura connection.
